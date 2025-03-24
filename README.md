@@ -1,6 +1,8 @@
 ## Hello, World! 🙋‍♀️
 ### My name is Inga and I'm goal-oriented and hardworking front-end developer
-👩‍💻 I have experience in creating SPA, using React (JS/TS), Redux, HTML & CSS.<br/>
+💎 Languages: JavaScript/TypeScript, HTML, CSS.<br/>
+🛠️ Frameworks/Libraries: Angular, React, Redux Toolkit, Next.js<br/>
+👩‍💻 I have experience not only in creating single-page applications, but in developing software applications with REST API.<br/>
 🌱 While I primarily focus on frontend currently, I would like to become a full-stack developer.<br/>
 🔭 Feel free to explore my repositories to see the projects I've been working on.
 
