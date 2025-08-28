@@ -1,5 +1,5 @@
 ## Hello, World! 🙋‍♀️
-### My name is Inga and I'm goal-oriented and hardworking front-end developer
+### My name is Inga and I'm goal-oriented and hardworking software developer
 💎 Languages: JavaScript/TypeScript, HTML, CSS.<br/>
 🛠️ Frameworks/Libraries: React, jQuery, Angular, Next.js.<br/>
 👩‍💻  I have experience not only in building single-page applications, but in developing software applications with REST API.<br/>
