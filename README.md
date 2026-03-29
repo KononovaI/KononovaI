@@ -3,7 +3,6 @@
 💎 Languages: JavaScript/TypeScript, HTML, CSS.<br/>
 🛠️ Frameworks/Libraries: React, jQuery, Angular, Next.js.<br/>
 👩‍💻  I have experience not only in building single-page applications, but in developing software applications with REST API.<br/>
-🌱 While I primarily focus on frontend currently, I would like to become a full-stack developer.<br/>
 🔭 Feel free to explore my repositories to see the projects I've been working on.
 
 ### Languages and tools
